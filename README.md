@@ -1,4 +1,4 @@
 # nhwpythongames
 
 Welcome
-Mainly puthon games in here, hope you enjoy
+Mainly Python games in here, I hope you enjoy!
